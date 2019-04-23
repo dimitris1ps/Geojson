@@ -10,4 +10,9 @@ Select <a href="https://nbviewer.jupyter.org/github/dimitris1ps/Geojson/blob/mas
 
 And <a href="https://nbviewer.jupyter.org/github/dimitris1ps/Geojson/blob/master/Attiki_Sectors.ipynb">Attiki example </a>
 
+Excel contains geojson related prefectures and regions, postal codes, LongLat, average family income, number of tax declarations and estomated population per zip code for greece.
+
+average family income and tax declerations are from 2011 and can be found <a href="http://www.gsis.gr/gsis/info/gsis_site/PublicIssue/">here, Ministry of Finance</a>
+
+LongLat data per zip code, i used the HERE api through python, for more https://developer.here.com/signup/geocoding
 
